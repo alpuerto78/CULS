@@ -1602,7 +1602,6 @@
             this.piechart_users.Legends.Add(legend4);
             this.piechart_users.Location = new System.Drawing.Point(4, 81);
             this.piechart_users.Name = "piechart_users";
-            this.piechart_users.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.SeaGreen;
             series13.ChartArea = "ChartArea1";
             series13.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
             series13.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
